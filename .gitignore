@@ -1,0 +1,24 @@
+# Ignore .vscode folders
+.vscode/
+
+# Ignore .vs folders
+.vs/
+
+# Ignore bin folder
+bin/
+
+#Ignore obj folder
+obj/
+
+# Ignore build artifacts
+*.dll
+*.exe
+*.pdb
+*.db
+*.log
+
+# Ignore user files
+
+*.user
+/Database/Database.dbmdl
+/Database/Database.jfm
